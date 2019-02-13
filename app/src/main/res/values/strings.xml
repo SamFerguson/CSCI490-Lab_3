@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string name="python">Python Programming</string>
+    <string name="java">Java Programming</string>
+    <string name="eastern_europe">History of Eastern Europe</string>
+    <string name="organization">Computer Organization</string>
+    <string name="linear">Linear Algebra</string>
+
+
+    <string-array name="array">
+        <item>@string/java</item>
+        <item>@string/eastern_europe</item>
+        <item>@string/linear</item>
+        <item>@string/organization</item>
+        <item>@string/python</item>
+    </string-array>
+
+
+</resources>
